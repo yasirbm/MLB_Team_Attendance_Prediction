@@ -7,7 +7,7 @@
 * **Model version**: 1.0
 * **License**: MIT License
 * **Model implementation code**:
-  * **Model**: [](Orioles_Prediction_Model_v1.0.ipynb)
+  * **Model**: [(Orioles_Prediction_Model_v1.0.ipynb)]
 
 ### Intended Use
 * **Primary intended uses**: This model is intended to predict attendance for 2022 home games played by the Baltimore Orioles
