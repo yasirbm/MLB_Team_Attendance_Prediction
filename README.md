@@ -13,13 +13,12 @@
 * **Primary intended uses**: This model is intended to predict attendance for 2022 home games played by the Baltimore Orioles
 
 ### Data Source & Data Dictionary
-
-* ![](images/model_variables.jpg)
+* INSERT LINK HERE
 * **How data was split into training and test data**: 80% training, 20% test
 
 ### Model Details
 * **Columns used as inputs in the final model**: 
-![image](https://user-images.githubusercontent.com/89418186/131267179-aa1cfb80-98b6-454e-9790-3b382e6d6368.png)
+![](images/model_variables.jpg)
 *	**Columns used as targets in the final model**: ATTENDANCE
 * **Type of Model**: Multiple Regression
 *	**Software used to train the Model**: Python v3.8.8
