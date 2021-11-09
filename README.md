@@ -14,7 +14,7 @@
 
 ### Data Source & Data Dictionary
 
-* [Credit_Line_Increase_Project_Python_Model.ipynb](https://github.com/yasirbm/DNSC6301---Analytics-Edge/blob/main/Python_Model/Credit_Line_Increase_Project_Python_Model.ipynb)
+* ![](images/model_variables.jpg)
 * **How data was split into training and test data**: 80% training, 20% test
 
 ### Model Details
