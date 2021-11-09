@@ -26,3 +26,10 @@
 *	**Metrics used to evaluate the model and final figures**:
   * **R Squared**: 0.923
   * **Adjusted R Squared**: 0.919
+
+### Data Visualizations
+* **Correlation Heatmap**:
+![](images/corr_heatmap.png)
+
+* **Attendance by Year**:
+![](images/Attendance by year.png)
