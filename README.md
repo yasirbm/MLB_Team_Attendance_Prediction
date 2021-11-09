@@ -28,15 +28,12 @@
 
 ### Data Visualizations
 
-* **Attendance by Year**:
 
 ![](images/Attendance%20by%20year.png)
 
-* **Attendance by day of the week**:
 
 ![](images/Attendance%20by%20day%20of%20the%20week.png)
 
-* **Attendance by key opposition**:
 
 ![](images/Attendance%20by%20Opposition.png)
 
