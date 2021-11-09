@@ -13,7 +13,7 @@
 * **Primary intended uses**: This model is intended to predict attendance for 2022 home games played by the Baltimore Orioles
 
 ### Data Source & Data Dictionary
-* INSERT LINK HERE
+* **Data File**: [2001-2019 Orioles Historical Attendance.xlsx](2001-2019 Orioles Historical Attendance.xlsx)
 * **How data was split into training and test data**: 80% training, 20% test
 
 ### Model Details
