@@ -27,9 +27,6 @@
   * **Adjusted R Squared**: 0.919
 
 ### Data Visualizations
-* **Correlation Heatmap**:
-
-![](images/corr_heatmap.png)
 
 * **Attendance by Year**:
 
