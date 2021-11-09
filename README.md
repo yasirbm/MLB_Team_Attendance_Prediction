@@ -28,7 +28,8 @@
 
 ### Data Visualizations
 
-![](images/Attendance%20by%20year.png)
+
+![](images/Avg%20Attendance%20by%20year.png)
 
 ![](images/Attendance%20by%20day%20of%20the%20week.png)
 
